@@ -20,3 +20,5 @@
 ### When we compare this with the model we have built we can see that the difference is marginal. 
 
 ![alt text](https://github.com/hgcostello/Phase2-Project/blob/MattieGittings_Work/Screen%20Shot%202022-04-01%20at%2012.38.42.jpeg)
+## Conclusion 
+ ### While our model does provide the price with relative accuracy there are many more things we could do to be able to make our model even more accurate.  To begin with we could expand the data set that we are using. The KC House Data file only contains sale information from 2014-2015, to have a more accurate model we would need to have more up to date information. As well we would like to include more factors to determine a more accurate price. This could include incorporating whether a property is located on the waterfront or not, or wherter a propoerty is an apartment building etc. 
